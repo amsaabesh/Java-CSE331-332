@@ -46,6 +46,6 @@ public class Max_min {
               maxChar = string[i];    
           }    
       }             
-      System.out.println("Minimum occurring character: " + minChar+"\nMaximum occurring character: " + maxChar);    
+      System.out.println("Min= " + minChar+"\nMax= " + maxChar);    
   }  
 }

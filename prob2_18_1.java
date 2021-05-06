@@ -24,5 +24,6 @@ public class prob2_18_1 {//HW 26 April 2021 CR!M!N4L 0F W4R
     }
     for(i=0;i<8;i++)
         System.out.print("*");
+    System.out.println("");
     }
 }

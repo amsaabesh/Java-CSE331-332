@@ -62,4 +62,5 @@ public class prob2_18_4 {//HW 26 April 2021 CR!M!N4L 0F W4R
             System.out.print("\n");
     }
    }
-    }
+ }
+}
